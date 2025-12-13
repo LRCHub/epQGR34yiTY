@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "グランドエスケープ（feat. 三浦透子）",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-13T14:38:38.995464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グランドエスケープ feat. 三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_グランドエスケープ_feat._三浦透子_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グランドエスケープ feat. 三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/02_グランドエスケープ_feat._三浦透子_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グランドエスケープ feat. 三浦透子",
+      "artist": "新海誠",
+      "has_synced": false,
+      "path": "select/03_グランドエスケープ_feat._三浦透子_新海誠.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グランドエスケープ (feat.三浦透子) [Movie edit]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_グランドエスケープ_(feat.三浦透子)_[Movie_edit]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グランドエスケープ (feat. 三浦透子)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_グランドエスケープ_(feat._三浦透子)_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グランドエスケープ feat. 三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_グランドエスケープ_feat._三浦透子_RADWIMPS.txt"
+    }
+  ]
+}
